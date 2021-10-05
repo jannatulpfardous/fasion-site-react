@@ -4,7 +4,7 @@ import Footer from './components/Footer/Footer';
 
 import { BrowserRouter as Router, Switch, Route, } from "react-router-dom";
 import NotFound from './components/NotFound/NotFound';
-import Home from './components/HOME/Home';
+import Home from './components/homm/Home';
 import Education from './components/Education/Education';
 import Services from './Services';
 import Addmission from './components/Admission/Addmission';
