@@ -1,7 +1,4 @@
 import React from 'react';
-import './App.css';
-import Footer from './components/Footer/Footer';
-
 import { BrowserRouter as Router, Switch, Route, } from "react-router-dom";
 import NotFound from './components/NotFound/NotFound';
 import Home from './components/homm/Home';
@@ -10,6 +7,8 @@ import Services from './Services';
 import Addmission from './components/Admission/Addmission';
 import About from './components/About/About';
 import Navbar from './components/navbar/Navbar';
+import './App.css';
+import Footer from './components/Footer/Footer';
 
 
 
